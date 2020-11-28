@@ -1,6 +1,6 @@
 ### Hi there, I'm Furkan - some call me [Director][website] 👋
 
-[![Website](https://img.shields.io/website?label=furkanyasar.com&style=for-the-badge&url=http%3A%2F%2Ffurkanyasar.com)](https://furkanyasar.com)
+[![Website](https://img.shields.io/website?label=furkanyasar.com&style=for-the-badge&url=http%3A%2F%2Ffurkanyasar.com)](http://furkanyasar.com)
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/furkanyasar61?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffurkanyasar&screen_name=furkanyasar61)
 
 ## I'm a Future Designer, Entrepreneur, Engineer, Drone Pilot, Developer, and Learner!
@@ -41,7 +41,7 @@
 
   <summary>:zap: Recent GitHub Activity</summary>
   
-START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. 💪 Opened Repository (https://github.com/furkanyasar/Cpp-OOP-Introduction) in [furkanyasar/Cpp-OOP-Introduction](https://github.com/furkanyasar/Cpp-OOP-Introduction)
 
 <!--END_SECTION:activity-->
