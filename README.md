@@ -38,16 +38,15 @@
 <br />
 <br />
 
-
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
-1. 💪 Opened Repository (https://github.com/furkanyasar/Cpp-OOP-Introduction) in [furkanyasar/Cpp-OOP-Introduction](https://github.com/furkanyasar/Cpp-OOP-Introduction)
+1. 💪 Opened [Repository](https://github.com/furkanyasar/Cpp-OOP-Introduction) in [furkanyasar/Cpp-OOP-Introduction](https://github.com/furkanyasar/Cpp-OOP-Introduction)
 
 <!--END_SECTION:activity-->
+</details>
 
-<!--</details>
--->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
