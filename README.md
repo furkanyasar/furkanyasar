@@ -1,4 +1,4 @@
-### Hi there, I'm Furkan - some call me [Director][website] 👋
+### Hi there, I'm Furkan -  call me [Director][website] 👋
 
 [![Website](https://img.shields.io/website?label=furkanyasar.com&style=for-the-badge&url=http%3A%2F%2Ffurkanyasar.com)](http://furkanyasar.com)
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/furkanyasar61?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffurkanyasar&screen_name=furkanyasar61)
