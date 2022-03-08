@@ -8,7 +8,7 @@
 - 🏛️ Control and Automation Engineering Student @ [Yıldız Technical University](https://www.yildiz.edu.tr)
 - 🌱 I’m currently learning C++, Reinforcement Learning, Autonomous Drone Development and Robotic 💪
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Capstone Project: Swarm Drones Controlling by Reinforcement Learning 
+- 🥅 2022 Goals: Capstone Project: Swarm Drones Controlling by Reinforcement Learning 
 - ⚡ Fun fact: I love to make movies, fly drones
 
 
