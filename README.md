@@ -5,7 +5,7 @@
 
 ## I'm a Future Designer, Entrepreneur, Engineer, Drone Pilot, Developer, and Learner!
 
-- 🏛️ Control and Automation Engineering Student @ [Yıldız Technical University](https://www.yildiz.edu.tr)
+- 🏛️ Control and Automation Engineer Graduated from @ [Yıldız Technical University](https://www.yildiz.edu.tr) with ❤️
 - 🌱 I’m currently learning C++, Reinforcement Learning, Autonomous Drone Development and Robotic 💪
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Capstone Project: Swarm Drones Controlling by Reinforcement Learning 
